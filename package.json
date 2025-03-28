@@ -1,0 +1,19 @@
+{
+  "name": "real_time_backend",
+  "version": "1.0.0",
+  "description": "Real time project  with MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaneshGone04/Real_time_backend.git"
+  },
+  "author": "Ganesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GaneshGone04/Real_time_backend/issues"
+  },
+  "homepage": "https://github.com/GaneshGone04/Real_time_backend#readme"
+}
